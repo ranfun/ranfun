@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ranfun, currently a final year Electrical Engineering student with a predilection to programming
+- 👋 Hi, I’m @ranfun, currently a final year Electrical Engineering student with a predilection for programming
 - 👀 I’m interested in embedded systems development and RF tech still exploring this vast stream
 - 🌱 I’m currently learning RTOS, high speed data converter applications
 - 💞️ I’m looking to help out and collaborate in whatever I can however I can!
