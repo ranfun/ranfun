@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ranfun
-- 👀 I’m interested in embedded systems development and RF tech
+- 👋 Hi, I’m @ranfun, currently a final year student interning
+- 👀 I’m interested in embedded systems development and RF tech still exploring this vast stream
 - 🌱 I’m currently learning RTOS, high speed data converter applications
-- 💞️ I’m looking to collaborate on open-source embedded projects
+- 💞️ I’m looking to help out and collaborate in whatever I can however I can!
 - 📫 You can mail me on ranjan42069@gmail.com
 
 <!---
