@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ranfun, an electrical engineering graduate with a background in computer science.
-- 👀 I’m interested in embedded systems development and cyberphysical systems.
-- 🌱 I’m currently learning computer vision.
+- 👀 I’m interested in Embedded Systems, Internet of Things and Signal Processing.
 - 💞️ I’m looking to help out and collaborate in whatever I can however I can!
 - 📫 You can mail me on ranjan42069@gmail.com
 
