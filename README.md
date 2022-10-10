@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ranfun, an electrical engineering graduate with a background in computer science.
-- 👀 I’m interested in Embedded Systems, Internet of Things and Signal Processing.
-- 💞️ I’m looking to help out and collaborate in whatever I can however I can!
+- 👋 Hi, I’m @ranfun, I'm currently pursuing my Master's in Embedded Systems and the Internet of Things. 
+- 👀 I did my undergraduate studies in Electrical and Eletronics Engineering. 
+- 💞️ I’m looking to help out and collaborate however I can!
 - 📫 You can mail me on ranjan42069@gmail.com
 
 <!---
