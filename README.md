@@ -7,7 +7,7 @@
 -  I’m looking to help out and collaborate however I can!
 
 ## Get in touch
-[Linkedin](https://www.linkedin.com/in/sranjan27/) | [Instagram](https://www.instagram.com/ranjanfun69/) | [Mail](ranjan42069@gmail.com)
+[Linkedin](https://www.linkedin.com/in/sranjan27/) | [Instagram](https://www.instagram.com/ranjanfun69/) | ranjan42069@gmail.com
 
 <!---
 ranfun/ranfun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
