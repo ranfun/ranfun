@@ -1,7 +1,6 @@
 # Hello there, I am Ranjan. 
 -  I'm currently pursuing my Master's degree in Computer Engineering from University of California, Irvine.
 -  I completed my bachelor's degree in Electrical and Eletronics Engineering from VIT Vellore.
--  Work experience - Ex-Raptee, Ex-Expleo, Ex-Mistral, Ex-Bosch.
 -  I enjoy working on Software and Hardware.
 -  I have experience working on Embedded Systems, Firmware Development, IoT, Signal and Image Processing, Hardware Design and Machine Learning.
 -  I’m looking to help out and collaborate however I can!
