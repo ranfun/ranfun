@@ -22,6 +22,7 @@ I'm a Software Engineer at Qualcomm, with a Master's in Computer Engineering and
 - Firmware | RTOS | Image Processing | Embedded Linux | Networking | Robotics | Machine Learning | PCB Design
 
 ## Connect with me
-- [![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)](https://www.linkedin.com/in/sranjan27/)
-- [![Instagram](https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=740&t=st=1704701058~exp=1704701658~hmac=ea7982ceb90349d11a8129638527e42e6dcd54a961f1bab0da8bc71c5eb44e80)](https://www.instagram.com/ranjanfun69/)
+- <a href="https://www.linkedin.com/in/sranjan27/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" height="30"></a>
+- <a href="https://www.instagram.com/ranjanfun69/"><img src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=740&t=st=1704701058~exp=1704701658~hmac=ea7982ceb90349d11a8129638527e42e6dcd54a961f1bab0da8bc71c5eb44e80" width="30" height="30"></a>
 - 📧 ranjan42069@gmail.com
+
