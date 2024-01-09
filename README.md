@@ -1,4 +1,4 @@
-# Hello there, I'm Ranjan 👋
+# Hello there, I'm Soumya Ranjan 👋
 
 I'm a Software Engineer at Qualcomm, with a Master's in Computer Engineering and a Bachelor's in Electrical Engineering. I thrive on the challenges of Firmware Development, Embedded Linux, Networking, Robotics, and Machine Learning. My background in Electrical Engineering, combined with advanced skills in Computer Engineering, enables me to contribute to complex multi-disciplinary projects. Let's connect and turn innovative ideas into reality.
 
