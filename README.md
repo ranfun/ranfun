@@ -3,7 +3,7 @@
 I'm a Software Engineer at Qualcomm, with a Master's in Computer Engineering and a Bachelor's in Electrical Engineering. I thrive on the challenges of Firmware Development, Embedded Linux, Networking, Robotics, and Machine Learning. My background in Electrical Engineering, combined with advanced skills in Computer Engineering, enables me to contribute to complex multi-disciplinary projects. Let's connect and turn innovative ideas into reality.
 
 ## Experience Highlights
-- 🖥️ Software Engineering at Qualcomm: Delivering high-performance software solutions.
+- 🖥️ Software Engineering: Delivering high-performance software solutions.
 - 🔌 Embedded Systems & Firmware: Creating the backbone of modern device architecture.
 - 🤖 Robotics & RTOS: Integrating intelligent systems with real-time operational control.
 - 📊 Image Processing & Machine Learning: Driving advancements in data analysis and AI.
