@@ -26,8 +26,7 @@ I'm a Software Engineer at Qualcomm, with a Master's in Computer Engineering and
   LinkedIn
   <a href="https://www.linkedin.com/in/sranjan27/">
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="15" height="15">
-  </a> 
-  
+  </a> | 
   Mail 
   <a href="mailto:ranjan42069@gmail.com">
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="20" height="15">
