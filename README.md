@@ -29,7 +29,7 @@ I'm a Software Engineer at Qualcomm, with a Master's in Computer Engineering and
   <a href="mailto:ranjan42069@gmail.com">
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="20" height="20">
   </a>
-    <a href="https://www.instagram.com/ranjanfun69/">
+  <a href="https://www.instagram.com/ranjanfun69/">
     <img src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=740&t=st=1704701058~exp=1704701658~hmac=ea7982ceb90349d11a8129638527e42e6dcd54a961f1bab0da8bc71c5eb44e80" width="20" height="20">
   </a> 
 </p>
