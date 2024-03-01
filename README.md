@@ -1,36 +1,45 @@
 # Hello there, I'm Soumya Ranjan 👋
 
-I'm a Software Engineer at Qualcomm, with a Master's in Computer Engineering and a Bachelor's in Electrical Engineering. I thrive on the challenges of Firmware Development, Embedded Linux, Networking, Robotics, and Machine Learning. My background in Electrical Engineering, combined with advanced skills in Computer Engineering, enables me to contribute to complex multi-disciplinary projects. Let's connect and turn innovative ideas into reality.
+As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engineering and a Bachelor's in Electrical Engineering. Specializing in Firmware Development and Machine Learning, I am passionate about leveraging my deep understanding of Embedded Systems, Robotics, and Advanced Computing to tackle the challenges of today's tech landscape. My diverse background enables me to contribute significantly to multi-disciplinary projects, turning innovative ideas into tangible realities. Let's connect and explore how we can make a difference together.
 
 ## Experience Highlights
-- 🖥️ Software Engineering: Delivering high-performance software solutions.
-- 🔌 Embedded Systems & Firmware: Creating the backbone of modern device architecture.
-- 🤖 Robotics & RTOS: Integrating intelligent systems with real-time operational control.
-- 📊 Image Processing & Machine Learning: Driving advancements in data analysis and AI.
-- 🛠️ PCB Design: Engineering the critical hardware that brings technology to life.
+
+- 🖥️ **Software Engineering**: Excelling in developing high-performance software solutions.
+- 🔌 **Embedded Systems & Firmware**: Architecting the foundational elements of modern devices.
+- 🤖 **Robotics & Real-Time Operating Systems (RTOS)**: Merging intelligence with real-time control.
+- 📊 **Machine Learning & Image Processing**: Pioneering advancements in AI and data analysis.
+- 🛠️ **PCB Design**: Crafting the essential hardware components of technological innovations.
 
 ## Education
+
 - 🎓 Master's in Computer Engineering, University of California, Irvine
 - 🎓 Bachelor's in Electrical Engineering, Vellore Institute of Technology, Vellore
 
 ## Technical Skills
+
 ### Programming Languages:
+
 - C | C++ | Python | Embedded C | Assembly | SystemC | Bash Scripting | Robot Operating System (ROS)
+
 ### Software and Tools:
+
 - Git | Altium | Proteus | Make, CMake | MATLAB | Simulink | FreeRTOS | Pycharm | TensorFlow | PyTorch | Keil | Trace32
+
 ### Technologies:
-- Firmware | RTOS | Image Processing | Embedded Linux | Networking | Robotics | Machine Learning | PCB Design
+
+- **Firmware** | **RTOS** | Image Processing | Embedded Linux | Networking | **Robotics** | **Machine Learning** | PCB Design
 
 ## Connect with me
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sranjan27/) | Email me at [ranjan42069@gmail.com](mailto:ranjan42069@gmail.com)
+
 <p>
-  LinkedIn
+  Connect with me on LinkedIn: 
   <a href="https://www.linkedin.com/in/sranjan27/">
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="15" height="15">
-  </a>| 
-  Mail 
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="width: 20px; height: 20px; vertical-align: middle;">
+  </a> | 
+  Email: 
   <a href="mailto:ranjan42069@gmail.com">
-    <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="20" height="15">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" style="width: 20px; height: 20px; vertical-align: middle;">
   </a>
 </p>
-
-
