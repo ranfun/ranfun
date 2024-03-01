@@ -1,15 +1,18 @@
-<header style="text-align: center; margin-bottom: 20px;">
-  <h1>Soumya Ranjan</h1>
-  <p>Software Engineer at Qualcomm | Firmware Developer | Machine Learning Enthusiast</p>
+<header style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
   <div>
-    <a href="https://www.linkedin.com/in/sranjan27/" style="text-decoration: none; margin-right: 10px;">
+    <h1 style="margin: 0;">Soumya Ranjan</h1>
+    <p>Software Engineer at Qualcomm | Firmware Developer | Machine Learning Enthusiast</p>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/sranjan27/" style="text-decoration: none; border: none; margin-right: 10px;">
       <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 35px; height: 35px; vertical-align: middle;">
     </a>
-    <a href="mailto:ranjan42069@gmail.com" style="text-decoration: none;">
+    <a href="mailto:ranjan42069@gmail.com" style="text-decoration: none; border: none;">
       <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 35px; height: 35px; vertical-align: middle;">
     </a>
   </div>
 </header>
+
 
 As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engineering and a Bachelor's in Electrical Engineering. Specializing in Firmware Development and Machine Learning, I am passionate about leveraging my deep understanding of Embedded Systems, Robotics, and Advanced Computing to tackle the challenges of today's tech landscape. My diverse background enables me to contribute significantly to multi-disciplinary projects, turning innovative ideas into tangible realities. Let's connect and explore how we can make a difference together.
 
