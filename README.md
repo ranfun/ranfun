@@ -34,7 +34,7 @@ As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engi
 [LinkedIn](https://www.linkedin.com/in/sranjan27/) | Email me at [ranjan42069@gmail.com](mailto:ranjan42069@gmail.com)
 
 <p>
-  Connect with me on LinkedIn: 
+  LinkedIn: 
   <a href="https://www.linkedin.com/in/sranjan27/">
     <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;">
   </a> | 
