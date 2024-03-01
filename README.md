@@ -1,4 +1,4 @@
-# Hello there, I'm Soumya Ranjan 👋
+# Hello there, I'm Soumya Ranjan
 
 As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engineering and a Bachelor's in Electrical Engineering. Specializing in Firmware Development and Machine Learning, I am passionate about leveraging my deep understanding of Embedded Systems, Robotics, and Advanced Computing to tackle the challenges of today's tech landscape. My diverse background enables me to contribute significantly to multi-disciplinary projects, turning innovative ideas into tangible realities. Let's connect and explore how we can make a difference together.
 
@@ -29,14 +29,12 @@ As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engi
 
 - **Firmware** | **RTOS** | Image Processing | Embedded Linux | Networking | **Robotics** | **Machine Learning** | PCB Design
 
-## Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/sranjan27/">
-    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;">
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/sranjan27/" style="margin-right: 10px;">
+    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 25px; height: 25px; vertical-align: middle;">
   </a>
   <a href="mailto:ranjan42069@gmail.com">
-    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 20px; height: 20px; display: inline-block; vertical-align: middle;">
+    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 25px; height: 25px; vertical-align: middle;">
   </a>
 </p>
 
