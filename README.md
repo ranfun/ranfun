@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranfun&label=Profile%20views&color=0e75b6&style=flat" alt="ranfun" /> </p>
 
-- ⚡ Fun fact **Walter Frederick Morrison, the inventor of the Frisbee, was cremated and his ashes were molded into Frisbees. It seems he really wanted to "fly" forever!**
+**⚡ Fun fact - Walter Frederick Morrison, the inventor of the Frisbee, was cremated and his ashes were molded into Frisbees. It seems he really wanted to "fly" forever!**
 
 
 ## Experience Highlights
