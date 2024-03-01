@@ -31,8 +31,6 @@ As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engi
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/sranjan27/) | Email me at [ranjan42069@gmail.com](mailto:ranjan42069@gmail.com)
-
 <p>
   LinkedIn: 
   <a href="https://www.linkedin.com/in/sranjan27/">
