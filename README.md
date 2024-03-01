@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjan</h1>
 <h3 align="center">Currently at Qualcomm as a Software Engineer, I thrive in the realm of firmware development, where my expertise in low-level programming comes to the forefront. With a solid foundation in Electrical Engineering, including PCB design, image, and signal processing, my technical acumen has been a catalyst for innovation. Over the past couple of years, I've nurtured a growing fascination with the Machine Learning and AI space, actively engaging in projects that explore these dynamic fields. This recent journey complements my Electrical and Computer Engineering degrees, reflecting my eagerness to embrace new challenges. Beyond the circuits and algorithms, I find joy in gaming and football, which keep me energized and inspired. I am always on the lookout for opportunities to collaborate, learn, and contribute to meaningful advancements.</h3>
 
-
-- ⚡ Fun fact **Walter Frederick Morrison, the inventor of the Frisbee, was cremated and his ashes were molded into Frisbees. It seems he really wanted to "fly" forever!**
+⚡ Fun fact **Walter Frederick Morrison, the inventor of the Frisbee, was cremated and his ashes were molded into Frisbees. It seems he really wanted to "fly" forever!**
 
 
 
