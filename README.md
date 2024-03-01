@@ -42,12 +42,3 @@ As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engi
 
 ### Technologies:
 - Firmware | RTOS | Image Processing | Embedded Linux | Networking | Robotics | Machine Learning | PCB Design
-
-<div style="text-align: center; width: 100%;">
-  <a href="https://www.linkedin.com/in/sranjan27/" style="margin-right: 10px;">
-    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 25px; height: 25px; vertical-align: middle;">
-  </a>
-  <a href="mailto:ranjan42069@gmail.com">
-    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 25px; height: 25px; vertical-align: middle;">
-  </a>
-</div>
