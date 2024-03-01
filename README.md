@@ -1,16 +1,14 @@
-<header style="text-align: center; margin-bottom: 20px;">
-  <h1 style="margin: 0; padding-bottom: 10px;">Soumya Ranjan</h1>
-  <p style="margin: 0; padding-bottom: 10px;">Software Engineer at Qualcomm | Firmware Developer | Machine Learning Enthusiast</p>
-  <div style="display: inline-block; padding-top: 10px;">
+<header style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 20px;">
+  <h1 style="margin: 0;">Soumya Ranjan</h1>
+  <div>
     <a href="https://www.linkedin.com/in/sranjan27/" style="text-decoration: none; margin-right: 10px;">
-      <img src="LINK_TO_LINKEDIN_ICON" alt="LinkedIn" style="width: 30px; height: 30px; vertical-align: middle;">
+      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 35px; height: 35px;">
     </a>
     <a href="mailto:ranjan42069@gmail.com" style="text-decoration: none;">
-      <img src="LINK_TO_EMAIL_ICON" alt="Email" style="width: 30px; height: 30px; vertical-align: middle;">
+      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 35px; height: 35px;">
     </a>
   </div>
 </header>
-
 
 Currently at Qualcomm as a Software Engineer, I thrive in the realm of firmware development, where my expertise in low-level programming comes to the forefront. With a solid foundation in Electrical Engineering, including PCB design, image, and signal processing, my technical acumen has been a catalyst for innovation. Over the past couple of years, I've nurtured a growing fascination with the Machine Learning and AI space, actively engaging in projects that explore these dynamic fields. This recent journey complements my Electrical and Computer Engineering degrees, reflecting my eagerness to embrace new challenges. Beyond the circuits and algorithms, I find joy in gaming and football, which keep me energized and inspired. I am always on the lookout for opportunities to collaborate, learn, and contribute to meaningful advancements.
 ## Experience Highlights
