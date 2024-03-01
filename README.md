@@ -40,6 +40,5 @@
 <p align="left">
   <a href="https://linkedin.com/in/sranjan27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sranjan27" height="30" width="40" /></a>
   <a href="https://instagram.com/ranjanfun69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjanfun69" height="30" width="40" /></a>
-  <a href="mailto:ranjan42069@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="ranjan42069@gmail.com" height="30" width="40" /></a>
+  <a href="mailto:ranjan42069@gmail.com" target="blank"><img align="center" src="https://api.iconify.design/emojione:envelope.svg?color=black" alt="ranjan42069@gmail.com" height="30" width="40" /></a>
 </p>
-
