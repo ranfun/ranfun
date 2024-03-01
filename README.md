@@ -1,4 +1,15 @@
-# Hello there, I'm Soumya Ranjan
+<header style="text-align: center; margin-bottom: 20px;">
+  <h1>Soumya Ranjan</h1>
+  <p>Software Engineer at Qualcomm | Firmware and Machine Learning Enthusiast</p>
+  <div>
+    <a href="https://www.linkedin.com/in/sranjan27/">
+      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 35px; height: 35px; margin-right: 10px;">
+    </a>
+    <a href="mailto:ranjan42069@gmail.com">
+      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 35px; height: 35px;">
+    </a>
+  </div>
+</header>
 
 As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engineering and a Bachelor's in Electrical Engineering. Specializing in Firmware Development and Machine Learning, I am passionate about leveraging my deep understanding of Embedded Systems, Robotics, and Advanced Computing to tackle the challenges of today's tech landscape. My diverse background enables me to contribute significantly to multi-disciplinary projects, turning innovative ideas into tangible realities. Let's connect and explore how we can make a difference together.
 
