@@ -35,7 +35,7 @@ As a dedicated Software Engineer at Qualcomm, I hold a Master's in Computer Engi
   LinkedIn: 
   <a href="https://www.linkedin.com/in/sranjan27/">
     <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;">
-  </a> | 
+  </a> 
   Email: 
   <a href="mailto:ranjan42069@gmail.com">
     <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Mail" style="width: 20px; height: 20px; vertical-align: middle;">
