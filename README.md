@@ -41,14 +41,3 @@
 
 ### Technologies:
 - Firmware | RTOS | Image Processing | Embedded Linux | Networking | Robotics | Machine Learning | PCB Design
-
-<footer style="text-align: center; margin-top: 20px;">
-  <div> LinkedIn ->
-    <a href="https://www.linkedin.com/in/sranjan27/" style="text-decoration: none; margin-right: 10px;">
-      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 15px; height: 15px;">
-    </a>, Gmail ->                                       
-    <a href="mailto:ranjan42069@gmail.com" style="text-decoration: none;">
-      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 15px; height: 15px;">
-    </a>
-  </div>
-</footer>
