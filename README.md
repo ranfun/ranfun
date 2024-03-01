@@ -36,11 +36,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/sranjan27/) | Email me
 <p>
   Connect with me on LinkedIn: 
   <a href="https://www.linkedin.com/in/sranjan27/">
-    <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;">
+    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;">
   </a> | 
   Email: 
   <a href="mailto:ranjan42069@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/gmail.png" alt="Gmail" style="width: 20px; height: 20px; vertical-align: middle;">
+    <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Mail" style="width: 20px; height: 20px; vertical-align: middle;">
   </a>
 </p>
+
 
