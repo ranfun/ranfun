@@ -1,12 +1,12 @@
 <header style="text-align: center; margin-bottom: 20px;">
   <h1>Soumya Ranjan</h1>
-  <p>Software Engineer at Qualcomm | Firmware and Machine Learning Enthusiast</p>
+  <p>Software Engineer at Qualcomm | Firmware Developer | Machine Learning Enthusiast</p>
   <div>
-    <a href="https://www.linkedin.com/in/sranjan27/">
-      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 35px; height: 35px; margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/sranjan27/" style="text-decoration: none; margin-right: 10px;">
+      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" alt="LinkedIn" style="width: 35px; height: 35px; vertical-align: middle;">
     </a>
-    <a href="mailto:ranjan42069@gmail.com">
-      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 35px; height: 35px;">
+    <a href="mailto:ranjan42069@gmail.com" style="text-decoration: none;">
+      <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png?raw=true" alt="Email" style="width: 35px; height: 35px; vertical-align: middle;">
     </a>
   </div>
 </header>
