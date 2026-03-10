@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjan</h1>
 <h3 align="center">I’m currently a Software Engineer at Qualcomm working primarily on firmware and low-level systems. My background is in Electrical and Computer Engineering, and I’ve worked across areas like PCB design, image processing, and signal processing.
 
+
 Over the last few years, I’ve developed a growing interest in machine learning and AI, and I’ve been exploring the space through personal projects and learning on the side. I enjoy digging into new technologies and figuring out how things work under the hood.
 
 Outside of work, I’m into gaming and football, which help me recharge. I’m always open to connecting with people who enjoy building interesting things or pushing technology forward.</h3>
