@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ranjan</h1>
-<h3 align="center">Currently at Qualcomm as a Software Engineer, I thrive in the realm of firmware development, where my expertise in low-level programming comes to the forefront. With a solid foundation in Electrical Engineering, including PCB design, image, and signal processing, my technical acumen has been a catalyst for innovation. Over the past couple of years, I've nurtured a growing fascination with the Machine Learning and AI space, actively engaging in projects that explore these dynamic fields. This recent journey complements my Electrical and Computer Engineering degrees, reflecting my eagerness to embrace new challenges. Beyond the circuits and algorithms, I find joy in gaming and football, which keep me energized and inspired. I am always on the lookout for opportunities to collaborate, learn, and contribute to meaningful advancements.</h3>
+<h3 align="center">I’m currently a Software Engineer at Qualcomm working primarily on firmware and low-level systems. My background is in Electrical and Computer Engineering, and I’ve worked across areas like PCB design, image processing, and signal processing.
+
+Over the last few years, I’ve developed a growing interest in machine learning and AI, and I’ve been exploring the space through personal projects and learning on the side. I enjoy digging into new technologies and figuring out how things work under the hood.
+
+Outside of work, I’m into gaming and football, which help me recharge. I’m always open to connecting with people who enjoy building interesting things or pushing technology forward.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranfun&label=Profile%20views&color=0e75b6&style=flat" alt="ranfun" /> </p>
 
